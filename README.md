@@ -1,5 +1,7 @@
 # AI Telegram Assistant
 
+> **Kurz auf Deutsch:** Gesprächsautomatisierung, die die Telegram Bot API über n8n oder Make.com mit OpenAI verbindet: Nachrichten werden klassifiziert, mit Gesprächskontext angereichert und beantwortet, etwa für Support-Fragen, Lead-Erfassung oder interne Assistenzaufgaben.
+
 AI Telegram Assistant is a conversational automation project that connects Telegram Bot API with OpenAI through n8n or Make.com. The system receives user messages, applies routing logic, maintains conversation context, and returns AI-generated responses through Telegram.
 
 ## Business Problem
@@ -108,4 +110,6 @@ The workflow export is located inside:
 workflows/workflow.json
 ```
 
-# AI-Telegram-Assistant
+---
+
+**Autor:** Nikita Rozumnyi · KI-Automatisierung für Unternehmen · [nikita-automation.de](https://nikita-automation.de) · [LinkedIn](https://www.linkedin.com/in/nikita-rozumniy) · [alle Projekte](https://github.com/nikita-automation)
